@@ -54,31 +54,31 @@ interests:
 
 education:
   - area: MSc. Health and Biomedical Sciences
-    institution: KU Leuven
+    institution: Nelson Mandela African Institution of Science and Technology
     date_start: 2021-01-14
     date_end: 2023-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Knowing risk factors for brain agrophy is important_. Supervised by [Prof Emmanuel Mpolya and Dr John-Mary Vianney](https://example.com). Presented papers at 2 NCD conferences with the contributions being published in 1 PAM journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MNeurodegenerative Diseases
+    institution: Nelson Mandela African Institution of Science and Technology
+    date_start: 2021-01-14
+    date_end: 2023-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.47/5.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Science (Biology)
+    institution: Mwenge Catholic University
+    date_start: 2016-10-01
+    date_end: 2019-11-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leticia Kalumbilo is a PhD reseacher and assistant lecturer at KU Leuven and Menge Catholic University respectively. Her research interests includes applied Machine Learning, Bio-acoustic, Neurobiology, Biostatistics and Ecology.
