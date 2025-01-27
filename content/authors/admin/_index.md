@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Leticia Kalumbilo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Letishia
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Leticia
+last_name: Kalumbilo
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: KU Leuven
+    url: https://www.kuleuven.be/english/kuleuven
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neurobiology
+  - Biomedical Sciences
+  - Biostatistics
+  - Ecology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc. Health and Biomedical Sciences
+    institution: KU Leuven
+    date_start: 2021-01-14
+    date_end: 2023-08-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
